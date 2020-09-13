@@ -6,11 +6,11 @@ import winsound
 
 
 counter = 0
-div = 18
+div = 18   #decides the speed of the walls
 score = 0
 highscore = 0
 flag = 0
-rnum = 0
+
 
 
 wn = turtle.Screen()
